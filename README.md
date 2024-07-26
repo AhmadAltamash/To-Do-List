@@ -39,7 +39,7 @@ getAll(): Retrieves all objects from the object store.
 ## Demo
 -----
 
-You can view a live demo of the app [here](https://your-github-username.github.io/to-do-list-app/)
+You can view a live demo of the app [here]([https://ahmadaltamash.github.io/To-Do-List/])
 
 ## Installation
 ------------
@@ -47,7 +47,7 @@ You can view a live demo of the app [here](https://your-github-username.github.i
 To run the app locally, simply clone the repository and open the `index.html` file in your web browser.
 
 ## bash
-git clone https://github.com/your-github-username/to-do-list-app.git
+git clone https://ahmadaltamash.github.io/To-Do-List/
 cd to-do-list-app
 open index.html
 
