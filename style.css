@@ -6,7 +6,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* overflow-x: hidden; */
 }
 html, body{
     height: 100vh;
@@ -14,7 +13,6 @@ html, body{
     font-family: 'mont';
 }
 body {
-    overflow: hidden;
     background: rgb(48,47,70);
     background: linear-gradient(90deg, rgba(48,47,70,1) 4%, rgba(69,54,84,1) 58%, rgba(62,49,84,1) 100%);
 }
