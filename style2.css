@@ -276,9 +276,10 @@ ul {
     font-size: 16px;
   }
   .text1 {
-    font-size: 12px;
+    font-size: 13px;
     height: 40px;
     width: 100%;
+    font-weight: bolder;
   }
   .Majortext {
     width: 90%;
