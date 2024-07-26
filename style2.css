@@ -265,16 +265,18 @@ ul {
 
 @media screen and (max-width: 380px) {
   main {
-    height: auto;
+    min-height:calc(100vh - 10vh - 10vh);
     width: 100%;
   }
   .container {
+    height: auto;
     width: 90%;
   }
   h1 {
     font-size: 16px;
   }
   .text1 {
+    font-weight:bolder;
     font-size: 12px;
     height: 40px;
     width: 100%;
@@ -304,7 +306,7 @@ ul {
   footer {
     display: flex;
     justify-content: center;
-    font-size: 12px;
+    font-size: 10px;
     width: 100%;
     gap: 10px;
   }
