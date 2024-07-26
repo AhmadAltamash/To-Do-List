@@ -1,5 +1,4 @@
 # To-Do List App
-=================
 
 This is a simple to-do list app that uses IndexedDB to store and retrieve to-do list items locally on the user's device.
 
@@ -59,4 +58,7 @@ Contributions are welcome! If you'd like to contribute to the app, please fork t
 This app is licensed under the MIT License.
 
 ## Author
-Altamash Ahmad
+
+Altamash Ahmad (https://github.com/AhmadAltamash)
+
+Feel free to customize this readme file further according to your preferences and additional information.
