@@ -39,7 +39,7 @@ getAll(): Retrieves all objects from the object store.
 ## Demo
 -----
 
-You can view a live demo of the app [here]([https://ahmadaltamash.github.io/To-Do-List/])
+You can view a live demo of the app [here](https://ahmadaltamash.github.io/To-Do-List/)
 
 ## Installation
 ------------
